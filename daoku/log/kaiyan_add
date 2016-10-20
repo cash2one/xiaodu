@@ -1,0 +1,305 @@
+Traceback (most recent call last):
+  File "invokePluginMain.py", line 232, in <module>
+    db._insert(tablename='crawl_data',**result)
+  File "invokePluginMain.py", line 109, in _insert
+    dbcur = self._execute(sql_query, list(itervalues(values)))
+  File "invokePluginMain.py", line 43, in _execute
+    dbcur.execute(sql_query, values)
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 514, in execute
+    self._handle_result(self._connection.cmd_query(stmt))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/connection.py", line 488, in cmd_query
+    result = self._handle_result(self._send_cmd(ServerCmd.QUERY, query))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/connection.py", line 400, in _handle_result
+    raise errors.get_exception(packet)
+IntegrityError: 1062 (23000): Duplicate entry 'http://www.wandoujia.com/eyepetizer/detail.html?vid=4216' for key 'link_index'
+Traceback (most recent call last):
+  File "invokePluginMain.py", line 232, in <module>
+    db._insert(tablename='crawl_data',**result)
+  File "invokePluginMain.py", line 109, in _insert
+    dbcur = self._execute(sql_query, list(itervalues(values)))
+  File "invokePluginMain.py", line 43, in _execute
+    dbcur.execute(sql_query, values)
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 502, in execute
+    psub = _ParamSubstitutor(self._process_params(params))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 387, in _process_params
+    "Failed processing format-parameters; %s" % err)
+ProgrammingError: Failed processing format-parameters; Python 'dict' cannot be converted to a MySQL type
+Traceback (most recent call last):
+  File "invokePluginMain.py", line 232, in <module>
+    db._insert(tablename='crawl_data',**result)
+  File "invokePluginMain.py", line 109, in _insert
+    dbcur = self._execute(sql_query, list(itervalues(values)))
+  File "invokePluginMain.py", line 43, in _execute
+    dbcur.execute(sql_query, values)
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 514, in execute
+    self._handle_result(self._connection.cmd_query(stmt))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/connection.py", line 488, in cmd_query
+    result = self._handle_result(self._send_cmd(ServerCmd.QUERY, query))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/connection.py", line 400, in _handle_result
+    raise errors.get_exception(packet)
+IntegrityError: 1062 (23000): Duplicate entry 'http://www.wandoujia.com/eyepetizer/detail.html?vid=7744' for key 'link_index'
+Traceback (most recent call last):
+  File "invokePluginMain.py", line 232, in <module>
+    db._insert(tablename='crawl_data',**result)
+  File "invokePluginMain.py", line 109, in _insert
+    dbcur = self._execute(sql_query, list(itervalues(values)))
+  File "invokePluginMain.py", line 43, in _execute
+    dbcur.execute(sql_query, values)
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 502, in execute
+    psub = _ParamSubstitutor(self._process_params(params))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 387, in _process_params
+    "Failed processing format-parameters; %s" % err)
+ProgrammingError: Failed processing format-parameters; Python 'dict' cannot be converted to a MySQL type
+Traceback (most recent call last):
+  File "invokePluginMain.py", line 232, in <module>
+    db._insert(tablename='crawl_data',**result)
+  File "invokePluginMain.py", line 109, in _insert
+    dbcur = self._execute(sql_query, list(itervalues(values)))
+  File "invokePluginMain.py", line 43, in _execute
+    dbcur.execute(sql_query, values)
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 502, in execute
+    psub = _ParamSubstitutor(self._process_params(params))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 387, in _process_params
+    "Failed processing format-parameters; %s" % err)
+ProgrammingError: Failed processing format-parameters; Python 'dict' cannot be converted to a MySQL type
+Traceback (most recent call last):
+  File "invokePluginMain.py", line 232, in <module>
+    db._insert(tablename='crawl_data',**result)
+  File "invokePluginMain.py", line 109, in _insert
+    dbcur = self._execute(sql_query, list(itervalues(values)))
+  File "invokePluginMain.py", line 43, in _execute
+    dbcur.execute(sql_query, values)
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 514, in execute
+    self._handle_result(self._connection.cmd_query(stmt))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/connection.py", line 488, in cmd_query
+    result = self._handle_result(self._send_cmd(ServerCmd.QUERY, query))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/connection.py", line 400, in _handle_result
+    raise errors.get_exception(packet)
+IntegrityError: 1062 (23000): Duplicate entry 'http://www.wandoujia.com/eyepetizer/detail.html?vid=2376' for key 'link_index'
+Traceback (most recent call last):
+  File "invokePluginMain.py", line 232, in <module>
+    db._insert(tablename='crawl_data',**result)
+  File "invokePluginMain.py", line 109, in _insert
+    dbcur = self._execute(sql_query, list(itervalues(values)))
+  File "invokePluginMain.py", line 43, in _execute
+    dbcur.execute(sql_query, values)
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 514, in execute
+    self._handle_result(self._connection.cmd_query(stmt))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/connection.py", line 488, in cmd_query
+    result = self._handle_result(self._send_cmd(ServerCmd.QUERY, query))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/connection.py", line 400, in _handle_result
+    raise errors.get_exception(packet)
+IntegrityError: 1062 (23000): Duplicate entry 'http://www.wandoujia.com/eyepetizer/detail.html?vid=6050' for key 'link_index'
+Traceback (most recent call last):
+  File "invokePluginMain.py", line 232, in <module>
+    db._insert(tablename='crawl_data',**result)
+  File "invokePluginMain.py", line 109, in _insert
+    dbcur = self._execute(sql_query, list(itervalues(values)))
+  File "invokePluginMain.py", line 43, in _execute
+    dbcur.execute(sql_query, values)
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 514, in execute
+    self._handle_result(self._connection.cmd_query(stmt))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/connection.py", line 488, in cmd_query
+    result = self._handle_result(self._send_cmd(ServerCmd.QUERY, query))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/connection.py", line 400, in _handle_result
+    raise errors.get_exception(packet)
+IntegrityError: 1062 (23000): Duplicate entry 'http://www.wandoujia.com/eyepetizer/detail.html?vid=8876' for key 'link_index'
+Traceback (most recent call last):
+  File "invokePluginMain.py", line 232, in <module>
+    db._insert(tablename='crawl_data',**result)
+  File "invokePluginMain.py", line 109, in _insert
+    dbcur = self._execute(sql_query, list(itervalues(values)))
+  File "invokePluginMain.py", line 43, in _execute
+    dbcur.execute(sql_query, values)
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 502, in execute
+    psub = _ParamSubstitutor(self._process_params(params))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 387, in _process_params
+    "Failed processing format-parameters; %s" % err)
+ProgrammingError: Failed processing format-parameters; Python 'dict' cannot be converted to a MySQL type
+Traceback (most recent call last):
+  File "invokePluginMain.py", line 232, in <module>
+    db._insert(tablename='crawl_data',**result)
+  File "invokePluginMain.py", line 109, in _insert
+    dbcur = self._execute(sql_query, list(itervalues(values)))
+  File "invokePluginMain.py", line 43, in _execute
+    dbcur.execute(sql_query, values)
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 502, in execute
+    psub = _ParamSubstitutor(self._process_params(params))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 387, in _process_params
+    "Failed processing format-parameters; %s" % err)
+ProgrammingError: Failed processing format-parameters; Python 'dict' cannot be converted to a MySQL type
+Traceback (most recent call last):
+  File "invokePluginMain.py", line 232, in <module>
+    db._insert(tablename='crawl_data',**result)
+  File "invokePluginMain.py", line 109, in _insert
+    dbcur = self._execute(sql_query, list(itervalues(values)))
+  File "invokePluginMain.py", line 43, in _execute
+    dbcur.execute(sql_query, values)
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 514, in execute
+    self._handle_result(self._connection.cmd_query(stmt))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/connection.py", line 488, in cmd_query
+    result = self._handle_result(self._send_cmd(ServerCmd.QUERY, query))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/connection.py", line 400, in _handle_result
+    raise errors.get_exception(packet)
+IntegrityError: 1062 (23000): Duplicate entry 'http://www.wandoujia.com/eyepetizer/detail.html?vid=5116' for key 'link_index'
+Traceback (most recent call last):
+  File "invokePluginMain.py", line 232, in <module>
+    db._insert(tablename='crawl_data',**result)
+  File "invokePluginMain.py", line 109, in _insert
+    dbcur = self._execute(sql_query, list(itervalues(values)))
+  File "invokePluginMain.py", line 43, in _execute
+    dbcur.execute(sql_query, values)
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 514, in execute
+    self._handle_result(self._connection.cmd_query(stmt))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/connection.py", line 488, in cmd_query
+    result = self._handle_result(self._send_cmd(ServerCmd.QUERY, query))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/connection.py", line 400, in _handle_result
+    raise errors.get_exception(packet)
+IntegrityError: 1062 (23000): Duplicate entry 'http://www.wandoujia.com/eyepetizer/detail.html?vid=9046' for key 'link_index'
+Traceback (most recent call last):
+  File "invokePluginMain.py", line 232, in <module>
+    db._insert(tablename='crawl_data',**result)
+  File "invokePluginMain.py", line 109, in _insert
+    dbcur = self._execute(sql_query, list(itervalues(values)))
+  File "invokePluginMain.py", line 43, in _execute
+    dbcur.execute(sql_query, values)
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 514, in execute
+    self._handle_result(self._connection.cmd_query(stmt))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/connection.py", line 488, in cmd_query
+    result = self._handle_result(self._send_cmd(ServerCmd.QUERY, query))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/connection.py", line 400, in _handle_result
+    raise errors.get_exception(packet)
+IntegrityError: 1062 (23000): Duplicate entry 'http://www.wandoujia.com/eyepetizer/detail.html?vid=6534' for key 'link_index'
+Traceback (most recent call last):
+  File "invokePluginMain.py", line 232, in <module>
+    db._insert(tablename='crawl_data',**result)
+  File "invokePluginMain.py", line 109, in _insert
+    dbcur = self._execute(sql_query, list(itervalues(values)))
+  File "invokePluginMain.py", line 43, in _execute
+    dbcur.execute(sql_query, values)
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 514, in execute
+    self._handle_result(self._connection.cmd_query(stmt))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/connection.py", line 488, in cmd_query
+    result = self._handle_result(self._send_cmd(ServerCmd.QUERY, query))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/connection.py", line 400, in _handle_result
+    raise errors.get_exception(packet)
+IntegrityError: 1062 (23000): Duplicate entry 'http://www.wandoujia.com/eyepetizer/detail.html?vid=4728' for key 'link_index'
+Traceback (most recent call last):
+  File "invokePluginMain.py", line 232, in <module>
+    db._insert(tablename='crawl_data',**result)
+  File "invokePluginMain.py", line 109, in _insert
+    dbcur = self._execute(sql_query, list(itervalues(values)))
+  File "invokePluginMain.py", line 43, in _execute
+    dbcur.execute(sql_query, values)
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 514, in execute
+    self._handle_result(self._connection.cmd_query(stmt))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/connection.py", line 488, in cmd_query
+    result = self._handle_result(self._send_cmd(ServerCmd.QUERY, query))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/connection.py", line 400, in _handle_result
+    raise errors.get_exception(packet)
+IntegrityError: 1062 (23000): Duplicate entry 'http://www.wandoujia.com/eyepetizer/detail.html?vid=6424' for key 'link_index'
+Traceback (most recent call last):
+  File "invokePluginMain.py", line 232, in <module>
+    db._insert(tablename='crawl_data',**result)
+  File "invokePluginMain.py", line 109, in _insert
+    dbcur = self._execute(sql_query, list(itervalues(values)))
+  File "invokePluginMain.py", line 43, in _execute
+    dbcur.execute(sql_query, values)
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 502, in execute
+    psub = _ParamSubstitutor(self._process_params(params))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 387, in _process_params
+    "Failed processing format-parameters; %s" % err)
+ProgrammingError: Failed processing format-parameters; Python 'dict' cannot be converted to a MySQL type
+Traceback (most recent call last):
+  File "invokePluginMain.py", line 232, in <module>
+    db._insert(tablename='crawl_data',**result)
+  File "invokePluginMain.py", line 109, in _insert
+    dbcur = self._execute(sql_query, list(itervalues(values)))
+  File "invokePluginMain.py", line 43, in _execute
+    dbcur.execute(sql_query, values)
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 502, in execute
+    psub = _ParamSubstitutor(self._process_params(params))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 387, in _process_params
+    "Failed processing format-parameters; %s" % err)
+ProgrammingError: Failed processing format-parameters; Python 'dict' cannot be converted to a MySQL type
+Traceback (most recent call last):
+  File "invokePluginMain.py", line 232, in <module>
+    db._insert(tablename='crawl_data',**result)
+  File "invokePluginMain.py", line 109, in _insert
+    dbcur = self._execute(sql_query, list(itervalues(values)))
+  File "invokePluginMain.py", line 43, in _execute
+    dbcur.execute(sql_query, values)
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 502, in execute
+    psub = _ParamSubstitutor(self._process_params(params))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 387, in _process_params
+    "Failed processing format-parameters; %s" % err)
+ProgrammingError: Failed processing format-parameters; Python 'dict' cannot be converted to a MySQL type
+Traceback (most recent call last):
+  File "invokePluginMain.py", line 232, in <module>
+    db._insert(tablename='crawl_data',**result)
+  File "invokePluginMain.py", line 109, in _insert
+    dbcur = self._execute(sql_query, list(itervalues(values)))
+  File "invokePluginMain.py", line 43, in _execute
+    dbcur.execute(sql_query, values)
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 514, in execute
+    self._handle_result(self._connection.cmd_query(stmt))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/connection.py", line 488, in cmd_query
+    result = self._handle_result(self._send_cmd(ServerCmd.QUERY, query))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/connection.py", line 400, in _handle_result
+    raise errors.get_exception(packet)
+IntegrityError: 1062 (23000): Duplicate entry 'http://www.wandoujia.com/eyepetizer/detail.html?vid=3628' for key 'link_index'
+Traceback (most recent call last):
+  File "invokePluginMain.py", line 232, in <module>
+    db._insert(tablename='crawl_data',**result)
+  File "invokePluginMain.py", line 109, in _insert
+    dbcur = self._execute(sql_query, list(itervalues(values)))
+  File "invokePluginMain.py", line 43, in _execute
+    dbcur.execute(sql_query, values)
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 502, in execute
+    psub = _ParamSubstitutor(self._process_params(params))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 387, in _process_params
+    "Failed processing format-parameters; %s" % err)
+ProgrammingError: Failed processing format-parameters; Python 'dict' cannot be converted to a MySQL type
+Traceback (most recent call last):
+  File "invokePluginMain.py", line 232, in <module>
+    db._insert(tablename='crawl_data',**result)
+  File "invokePluginMain.py", line 109, in _insert
+    dbcur = self._execute(sql_query, list(itervalues(values)))
+  File "invokePluginMain.py", line 43, in _execute
+    dbcur.execute(sql_query, values)
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 514, in execute
+    self._handle_result(self._connection.cmd_query(stmt))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/connection.py", line 488, in cmd_query
+    result = self._handle_result(self._send_cmd(ServerCmd.QUERY, query))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/connection.py", line 400, in _handle_result
+    raise errors.get_exception(packet)
+IntegrityError: 1062 (23000): Duplicate entry 'http://www.wandoujia.com/eyepetizer/detail.html?vid=8760' for key 'link_index'
+Traceback (most recent call last):
+  File "invokePluginMain.py", line 232, in <module>
+    db._insert(tablename='crawl_data',**result)
+  File "invokePluginMain.py", line 109, in _insert
+    dbcur = self._execute(sql_query, list(itervalues(values)))
+  File "invokePluginMain.py", line 43, in _execute
+    dbcur.execute(sql_query, values)
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 514, in execute
+    self._handle_result(self._connection.cmd_query(stmt))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/connection.py", line 488, in cmd_query
+    result = self._handle_result(self._send_cmd(ServerCmd.QUERY, query))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/connection.py", line 400, in _handle_result
+    raise errors.get_exception(packet)
+IntegrityError: 1062 (23000): Duplicate entry 'http://www.wandoujia.com/eyepetizer/detail.html?vid=4574' for key 'link_index'
+Traceback (most recent call last):
+  File "invokePluginMain.py", line 232, in <module>
+    db._insert(tablename='crawl_data',**result)
+  File "invokePluginMain.py", line 109, in _insert
+    dbcur = self._execute(sql_query, list(itervalues(values)))
+  File "invokePluginMain.py", line 43, in _execute
+    dbcur.execute(sql_query, values)
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/cursor.py", line 514, in execute
+    self._handle_result(self._connection.cmd_query(stmt))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/connection.py", line 488, in cmd_query
+    result = self._handle_result(self._send_cmd(ServerCmd.QUERY, query))
+  File "/home/video/.jumbo/lib/python2.7/site-packages/mysql/connector/connection.py", line 400, in _handle_result
+    raise errors.get_exception(packet)
+IntegrityError: 1062 (23000): Duplicate entry 'http://www.wandoujia.com/eyepetizer/detail.html?vid=5446' for key 'link_index'
+数据处理完毕

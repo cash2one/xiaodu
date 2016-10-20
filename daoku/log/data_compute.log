@@ -1,0 +1,291 @@
+2016-10-20 10:14:30,680 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RGhirT4' for key 'link_index'
+2016-10-20 10:14:30,809 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RcfYPXG' for key 'link_index'
+2016-10-20 10:14:30,936 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RcGrTmy' for key 'link_index'
+2016-10-20 10:14:31,063 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RVA3Tvl' for key 'link_index'
+2016-10-20 10:14:31,190 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:31,317 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:31,455 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:31,584 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:31,710 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:31,837 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:31,964 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:32,091 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/Rc8t3I6' for key 'link_index'
+2016-10-20 10:14:32,218 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RVMqcZP' for key 'link_index'
+2016-10-20 10:14:32,347 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:32,473 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/Rc8t3I6' for key 'link_index'
+2016-10-20 10:14:32,599 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RtgKOb8' for key 'link_index'
+2016-10-20 10:14:32,726 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RU295de' for key 'link_index'
+2016-10-20 10:14:32,857 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:32,995 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:33,124 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:33,251 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:33,377 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:33,510 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:33,637 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:33,763 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:33,891 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:34,018 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:34,145 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:34,275 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:34,401 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:34,529 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:34,657 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:34,785 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RyU9nXa' for key 'link_index'
+2016-10-20 10:14:34,912 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RV2qyKf' for key 'link_index'
+2016-10-20 10:14:35,039 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:35,166 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:35,294 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:35,421 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:35,547 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:35,674 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:35,801 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:35,928 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/R5Jqgqt' for key 'link_index'
+2016-10-20 10:14:36,056 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/Rt4Z6UE' for key 'link_index'
+2016-10-20 10:14:36,183 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RVG6hPc' for key 'link_index'
+2016-10-20 10:14:36,311 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/Rt5XP7D' for key 'link_index'
+2016-10-20 10:14:36,438 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RqPnQKo' for key 'link_index'
+2016-10-20 10:14:36,564 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/Ry1Zd4N' for key 'link_index'
+2016-10-20 10:14:36,693 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/Rcgb2dS' for key 'link_index'
+2016-10-20 10:14:36,820 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:36,947 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:37,073 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:37,201 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:37,328 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:37,463 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:37,596 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:37,722 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:37,849 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:37,975 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:38,102 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:38,229 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:38,355 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:38,482 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:38,609 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:38,736 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RVwda2W' for key 'link_index'
+2016-10-20 10:14:38,863 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:38,991 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:39,117 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:39,243 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:39,370 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:39,496 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:39,623 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:39,753 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RtgKOb8' for key 'link_index'
+2016-10-20 10:14:39,880 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RGgBxof' for key 'link_index'
+2016-10-20 10:14:40,007 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:40,135 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RcejSgs' for key 'link_index'
+2016-10-20 10:14:40,263 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:40,393 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:40,522 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:40,648 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:40,775 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:40,901 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:41,028 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:41,155 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:41,281 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:41,408 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:41,535 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:41,661 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:41,788 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:41,915 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:42,044 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:42,172 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:42,299 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:42,426 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:42,556 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:42,683 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:42,810 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:42,941 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RV2qyKf' for key 'link_index'
+2016-10-20 10:14:43,068 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:43,196 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:43,323 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:43,450 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:43,576 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:43,709 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:43,836 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:43,963 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:44,090 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:44,217 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/Rcbizpo' for key 'link_index'
+2016-10-20 10:14:44,351 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RGueYLo' for key 'link_index'
+2016-10-20 10:14:44,479 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/Rcbizpo' for key 'link_index'
+2016-10-20 10:14:44,612 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RcOUscr' for key 'link_index'
+2016-10-20 10:14:44,739 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:44,865 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RA1gKPz' for key 'link_index'
+2016-10-20 10:14:44,993 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RcK7uVj' for key 'link_index'
+2016-10-20 10:14:45,120 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:45,248 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:45,375 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RVZLD41' for key 'link_index'
+2016-10-20 10:14:45,502 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:45,629 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:45,757 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RVt3rJ4' for key 'link_index'
+2016-10-20 10:14:45,884 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:46,011 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RtRDIWs' for key 'link_index'
+2016-10-20 10:14:46,138 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:46,265 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:46,391 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:46,518 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:46,644 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:46,770 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:46,896 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:47,022 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:47,149 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:47,275 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:47,404 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:47,530 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:47,657 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:47,784 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:47,915 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RVSzgdu' for key 'link_index'
+2016-10-20 10:14:48,042 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RtRDIWs' for key 'link_index'
+2016-10-20 10:14:48,169 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RGCMYIf' for key 'link_index'
+2016-10-20 10:14:48,296 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/R5Vf9Cr' for key 'link_index'
+2016-10-20 10:14:48,423 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:48,549 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RVLjsRX' for key 'link_index'
+2016-10-20 10:14:48,677 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RcdDgCN' for key 'link_index'
+2016-10-20 10:14:48,804 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RLntyiI' for key 'link_index'
+2016-10-20 10:14:48,931 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RcrJ0XF' for key 'link_index'
+2016-10-20 10:14:49,058 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/R4lnPb5' for key 'link_index'
+2016-10-20 10:14:49,186 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RcgwyKn' for key 'link_index'
+2016-10-20 10:14:49,313 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RqlfbxD' for key 'link_index'
+2016-10-20 10:14:49,441 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RVxrG2s' for key 'link_index'
+2016-10-20 10:14:49,568 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RV4XzD0' for key 'link_index'
+2016-10-20 10:14:49,695 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/Rc3ztjA' for key 'link_index'
+2016-10-20 10:14:49,823 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RcswstG' for key 'link_index'
+2016-10-20 10:14:49,950 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RGCMYIf' for key 'link_index'
+2016-10-20 10:14:50,078 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RVIHUsn' for key 'link_index'
+2016-10-20 10:14:50,210 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:50,337 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/Rc5a5vv' for key 'link_index'
+2016-10-20 10:14:50,464 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/Rckk9IM' for key 'link_index'
+2016-10-20 10:14:50,591 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/R5n4ztR' for key 'link_index'
+2016-10-20 10:14:50,717 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RVyWQnq' for key 'link_index'
+2016-10-20 10:14:50,848 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:50,976 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:51,103 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:51,229 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:51,356 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:51,493 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:51,642 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:51,768 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:51,895 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:52,022 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:52,148 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RGhirT4' for key 'link_index'
+2016-10-20 10:14:52,275 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RtRDIWs' for key 'link_index'
+2016-10-20 10:14:52,401 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RycGbyo' for key 'link_index'
+2016-10-20 10:14:52,531 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RqlfbxD' for key 'link_index'
+2016-10-20 10:14:52,657 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:52,786 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RcejSgs' for key 'link_index'
+2016-10-20 10:14:52,913 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RVSEEMl' for key 'link_index'
+2016-10-20 10:14:53,040 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RVGMwRL' for key 'link_index'
+2016-10-20 10:14:53,167 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/Rts02Bz' for key 'link_index'
+2016-10-20 10:14:53,295 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RVaC7QD' for key 'link_index'
+2016-10-20 10:14:53,422 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RquZRUw' for key 'link_index'
+2016-10-20 10:14:53,549 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RVbTstI' for key 'link_index'
+2016-10-20 10:14:53,677 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/Rc3ztjA' for key 'link_index'
+2016-10-20 10:14:53,804 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RVzkXAg' for key 'link_index'
+2016-10-20 10:14:53,932 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RVf2OWe' for key 'link_index'
+2016-10-20 10:14:54,060 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RVvEtWX' for key 'link_index'
+2016-10-20 10:14:54,187 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RVUcyRi' for key 'link_index'
+2016-10-20 10:14:54,315 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RVMibI6' for key 'link_index'
+2016-10-20 10:14:54,442 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RcD2zCd' for key 'link_index'
+2016-10-20 10:14:54,570 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RV4HSxJ' for key 'link_index'
+2016-10-20 10:14:54,698 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/Rt9SYyc' for key 'link_index'
+2016-10-20 10:14:54,825 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/Rqxmcfd' for key 'link_index'
+2016-10-20 10:14:54,952 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RcsHqb2' for key 'link_index'
+2016-10-20 10:14:55,139 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RydAtbd' for key 'link_index'
+2016-10-20 10:14:55,266 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RVxRxwr' for key 'link_index'
+2016-10-20 10:14:55,395 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RVGVT0N' for key 'link_index'
+2016-10-20 10:14:55,523 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:55,650 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RVZJHHj' for key 'link_index'
+2016-10-20 10:14:55,780 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:55,907 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:56,034 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RtRDIWs' for key 'link_index'
+2016-10-20 10:14:56,163 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/R51Hs40' for key 'link_index'
+2016-10-20 10:14:56,290 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RVPNs7c' for key 'link_index'
+2016-10-20 10:14:56,418 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RqlfbxD' for key 'link_index'
+2016-10-20 10:14:56,545 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/Rcz7neJ' for key 'link_index'
+2016-10-20 10:14:56,672 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RVZLD41' for key 'link_index'
+2016-10-20 10:14:56,799 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RV5ZRzK' for key 'link_index'
+2016-10-20 10:14:56,928 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RccXbzd' for key 'link_index'
+2016-10-20 10:14:57,054 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RVyo3cf' for key 'link_index'
+2016-10-20 10:14:57,182 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:57,316 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:57,445 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:57,571 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:57,697 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:57,826 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:57,953 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RVZJHHj' for key 'link_index'
+2016-10-20 10:14:58,080 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/Ry8pbDM' for key 'link_index'
+2016-10-20 10:14:58,208 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:58,338 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:58,465 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:58,591 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:58,718 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:58,844 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:58,971 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:59,098 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:59,224 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:59,351 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:59,478 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:59,605 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:59,732 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:59,861 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:14:59,987 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:00,114 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:00,242 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:00,368 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:00,500 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:00,630 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RcsHqb2' for key 'link_index'
+2016-10-20 10:15:00,758 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/Rt7JF3K' for key 'link_index'
+2016-10-20 10:15:00,885 - INFO - invokePluginMain.py - <module> - 242  - 数据插入成功: weibo
+2016-10-20 10:15:01,014 - ERROR - invokePluginMain.py - <module> - 251  - 数据插入失败: 1062 (23000): Duplicate entry 'http://t.cn/RtRDIWs' for key 'link_index'
+2016-10-20 10:15:01,141 - INFO - invokePluginMain.py - <module> - 242  - 数据插入成功: weibo
+2016-10-20 10:15:01,269 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:01,395 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:01,523 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:01,654 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:01,781 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:01,908 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:02,036 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:02,163 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:02,290 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:02,417 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:02,544 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:02,671 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:02,799 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:02,926 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:03,053 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:03,179 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:03,261 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:03,387 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:03,513 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:03,762 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:03,890 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:04,016 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:04,144 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:04,270 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:04,398 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:04,525 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:04,653 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:04,780 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:04,907 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:05,034 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:05,162 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:05,294 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:05,543 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:05,670 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:05,919 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:06,046 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:06,172 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:06,303 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:06,433 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:06,559 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:06,691 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:06,818 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:06,950 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:07,078 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:07,204 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:07,335 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:07,422 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:07,504 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:07,586 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:07,667 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:07,749 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
+2016-10-20 10:15:07,831 - INFO - invokePluginMain.py - <module> - 247  - 数据插入成功: weibo
