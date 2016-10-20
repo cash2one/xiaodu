@@ -1,9 +1,17 @@
+跳板机：
 ssh zengsheng_vd@relay01.baidu.com
-gzns-vs-video2.gzns
+
+服务器：
+ssh gzns-vs-video2.gzns
 
 video账户下部署
 端口设置 8000 到 9000之间
 
+测试库：
 mysql -h180.76.157.65 -P3336 -uapp -papp app_db --default-character-set=utf8
 
-我们部门邮箱video-search-rd@itv.baidu.com
+我们部门邮箱：
+video-search-rd@itv.baidu.com
+
+线上库：
+mysql -h10.114.32.36 -P9306 -uvideo -pvideo cherrypick_db
