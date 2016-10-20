@@ -11,3 +11,5 @@
 4、子类的单个视频详情：http://api.mobile.youku.com/layout/ios5_0/play/detail?area_code=1&brand=apple&btype=iPhone7%2C2&deviceid=0f607264fc6318a92b9e13c65db7cd3c&guid=7066707c5bdc38af1621eaf94a6fe779&id=XMTc2NDM4NzU5Ng%3D%3D&idfa=&network=WIFI&operator=%E4%B8%AD%E5%9B%BD%E8%81%94%E9%80%9A_46001&os=ios&os_ver=8.4&ouid=0583e1c2da05306f43c1ca6de44807727ab2a41b&pid=69b81504767483cf&scale=2&vdid=A65498C6-69CF-4033-A3B5-45E468211073&ver=5.10.1&_s_=ac64790c7d017b422e14aafa55c4505b&_t_=1476770632
 
 http://das.api.mobile.youku.com/show/relation/recomm?apptype=10&brand=apple&btype=iPhone7%2C2&cate=91&deviceid=0f607264fc6318a92b9e13c65db7cd3c&guid=7066707c5bdc38af1621eaf94a6fe779&idfa=&module=1&need_uc=0&network=WIFI&operator=%E4%B8%AD%E5%9B%BD%E8%81%94%E9%80%9A_46001&os=ios&os_ver=8.4&ouid=0583e1c2da05306f43c1ca6de44807727ab2a41b&page=1&pic_size=2&pid=69b81504767483cf&pl=30&scale=2&vdid=A65498C6-69CF-4033-A3B5-45E468211073&ver=5.10.1&vid=XMTc2NDM4NzU5Ng%3D%3D&_s_=d658c7d82e1d049388e0dc616f891e8e&_t_=1476770632
+
+爱奇艺：
