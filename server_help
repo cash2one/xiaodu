@@ -3,6 +3,7 @@ ssh zengsheng_vd@relay01.baidu.com
 
 服务器：
 ssh gzns-vs-video2.gzns
+ssh tc-video-ld00.tc
 
 video账户下部署
 端口设置 8000 到 9000之间
@@ -15,3 +16,6 @@ video-search-rd@itv.baidu.com
 
 线上库：
 mysql -h10.114.32.36 -P9306 -uvideo -pvideo cherrypick_db
+
+权限申请：
+选好节点，提交就行
