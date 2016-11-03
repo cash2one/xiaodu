@@ -11,8 +11,20 @@ video账户下部署
 测试库：
 mysql -h180.76.157.65 -P3336 -uapp -papp app_db --default-character-set=utf8
 
+线上库：
+mysql -h10.114.32.36 -P9306 -uvideo -pvideo cherrypick_db 
+
+百视服务器，目录，库
+bjyz-video-dcmimo00.bjyz.baidu.com
+/home/video/offline_baishi/data
+mysql -h 10.42.8.95 -P 6145 -u video_yingshi_yu -pqmyOzEPruA1K video_yingshi
+
+线上库服务器及图片下载位置
+gzns-video-cherrypick01.gzns.baidu.com
+/home/video/vor_realtime/vor_stream/data
+
 我们部门邮箱：
-video-search-rd@itv.baidu.com
+video-search-rd@baidu.com
 
 线上库：
 mysql -h10.114.32.36 -P9306 -uvideo -pvideo cherrypick_db
