@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/app/search/video/!svn/ver/135970/trunk/distributed-crawler/server/conf
+END
+DBConfig.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/app/search/video/!svn/ver/135970/trunk/distributed-crawler/server/conf/DBConfig.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/app/search/video/!svn/ver/132744/trunk/distributed-crawler/server/conf/__init__.py
+END
+CommConfig.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/app/search/video/!svn/ver/135970/trunk/distributed-crawler/server/conf/CommConfig.py
+END

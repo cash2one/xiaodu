@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/app/search/video/!svn/ver/135878/trunk/distributed-crawler/server/utils
+END
+GenInit_DATAORI_SQL.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/app/search/video/!svn/ver/134486/trunk/distributed-crawler/server/utils/GenInit_DATAORI_SQL.py
+END
+LogUtil.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/app/search/video/!svn/ver/135878/trunk/distributed-crawler/server/utils/LogUtil.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/app/search/video/!svn/ver/132744/trunk/distributed-crawler/server/utils/__init__.py
+END
+Dump_Listlink_DATAORI_SQL.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/app/search/video/!svn/ver/135432/trunk/distributed-crawler/server/utils/Dump_Listlink_DATAORI_SQL.py
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/app/search/video/!svn/ver/135960/trunk/distributed-crawler/server/dal
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/app/search/video/!svn/ver/132744/trunk/distributed-crawler/server/dal/__init__.py
+END
+MySqlDal.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/app/search/video/!svn/ver/133866/trunk/distributed-crawler/server/dal/MySqlDal.py
+END
+RedisDal.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/app/search/video/!svn/ver/135960/trunk/distributed-crawler/server/dal/RedisDal.py
+END

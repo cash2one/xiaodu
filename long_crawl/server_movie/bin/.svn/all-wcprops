@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/app/search/video/!svn/ver/132812/trunk/distributed-crawler/server/bin
+END
+print_sign
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/app/search/video/!svn/ver/132723/trunk/distributed-crawler/server/bin/print_sign
+END
+start_server.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/app/search/video/!svn/ver/132812/trunk/distributed-crawler/server/bin/start_server.sh
+END

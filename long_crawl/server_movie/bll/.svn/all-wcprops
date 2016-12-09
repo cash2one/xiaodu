@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/app/search/video/!svn/ver/136017/trunk/distributed-crawler/server/bll
+END
+AttrDbBll.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/app/search/video/!svn/ver/136017/trunk/distributed-crawler/server/bll/AttrDbBll.py
+END
+UtilityFunc.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/app/search/video/!svn/ver/134478/trunk/distributed-crawler/server/bll/UtilityFunc.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/app/search/video/!svn/ver/132744/trunk/distributed-crawler/server/bll/__init__.py
+END
+DBControl.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/app/search/video/!svn/ver/135082/trunk/distributed-crawler/server/bll/DBControl.py
+END

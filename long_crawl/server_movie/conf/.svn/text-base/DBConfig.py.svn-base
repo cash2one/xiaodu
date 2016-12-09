@@ -1,0 +1,17 @@
+# -*- encoding:utf8 -*-
+class DBConfig(object):
+    MYSQL = {
+            "host":"cp01-rdqa-pool394.cp01.baidu.com",
+            "db_name":"ns_video",
+            "uname":"mistest",
+            "pwd":"mistest123",
+            "encoding":"gbk",
+            "port":3306
+           }
+    
+    REDIS = {
+           "linklist_queue":{"host":"127.0.0.1", "port":6379, "db":0},
+           "cache_queue":{"host":"127.0.0.1", "port":6379, "db":1},
+           "dataobj_queue":{"host":"127.0.0.1", "port":6379, "db":2},
+           "monitor_queue":{"host":"127.0.0.1", "port":6379, "db":3}
+           }

@@ -1,0 +1,10 @@
+#!/bin/bash
+
+db_host="10.42.8.95"
+db_port="6145"
+db_user="video_yingshi_yu"
+db_pwd="qmyOzEPruA1K"
+db_name="video_yingshi"
+mysql=~/mysql/bin/mysql
+
+# ~/mysql/bin/mysql -h10.42.8.95 -P6145 -uvideo_yingshi_yu -pqmyOzEPruA1K video_yingshi

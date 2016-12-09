@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/app/search/video/!svn/ver/136028/trunk/distributed-crawler/server/state
+END
+DBStateMonitor.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/app/search/video/!svn/ver/132879/trunk/distributed-crawler/server/state/DBStateMonitor.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/app/search/video/!svn/ver/132744/trunk/distributed-crawler/server/state/__init__.py
+END
+LogAgent.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/app/search/video/!svn/ver/136028/trunk/distributed-crawler/server/state/LogAgent.py
+END

@@ -1,0 +1,80 @@
+10
+
+dir
+136183
+https://svn.baidu.com/app/search/video/trunk/distributed-crawler/server
+https://svn.baidu.com/app/search/video
+
+
+
+2014-08-13T11:01:30.275972Z
+136028
+wangshuxiang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c0863b73-a60a-4280-98fb-551f5ccebccc
+
+state
+dir
+
+dal
+dir
+
+utils
+dir
+
+conf
+dir
+
+__init__.py
+file
+
+
+
+
+2014-08-14T06:15:59.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2014-07-28T10:23:27.379423Z
+132744
+wangshuxiang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+bin
+dir
+
+bll
+dir
+
